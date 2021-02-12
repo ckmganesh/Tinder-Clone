@@ -14,7 +14,7 @@
 .tinderCards__cardContainer{
     display: flex;
     justify-content: center;
-    margin-top: 10vh;
+    margin-top: 2vh;
 }
 .swipe{
     position:absolute;
